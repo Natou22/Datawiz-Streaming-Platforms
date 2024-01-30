@@ -4,9 +4,9 @@ DATAWIZ PROJECT
 Steven LE MOAL & Natacha Batmini BATMANABANE DIA1
 
 We have chosen 3 datasets:
-    https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
-    https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
-    https://www.kaggle.com/datasets/bohnacker/country-longitude-latitude
+    -https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+    -https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
+    -https://www.kaggle.com/datasets/bohnacker/country-longitude-latitude
 
 Part 1 : Context and motivation
 
