@@ -22,3 +22,5 @@ We will use the 3rd dataset to merge with the country field to retrieve the loca
 
 We'll try to answer this question:
 How do viewer preferences, movies and TV series characteristics and platform availability relate to each other? What are the strategies of the 4 platforms?
+
+Colab: https://colab.research.google.com/drive/1l4a8aqZC8kFcTrqfJjfiG71gJMegtgNU?usp=sharing
